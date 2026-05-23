@@ -1,7 +1,6 @@
 ﻿#include"input.h"
 #include"judge.h"
 
-bool is_looping = false;
 int main()
 {
 	Randam();
