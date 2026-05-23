@@ -1,7 +1,7 @@
 #pragma once
 
-// ランダム抽選
+// ランダムな数字
 void Randam();
 
-// 数値入力
+// 値の入力
 void number();
